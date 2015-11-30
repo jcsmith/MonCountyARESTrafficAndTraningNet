@@ -42,10 +42,8 @@ So now let's begin check-ins.
 First do we have any emergency, priority, or time valued traffic for the net?
 
 **Ask this only once.**
-
-**Handle these stations first before moving on.**
-
-**Let The Repeater Drop.**
+Handle these stations first before moving on.
+Let The Repeater Drop.**
 
 Are there any stations with formal written traffic?  That is specific NTS message traffic.
 
