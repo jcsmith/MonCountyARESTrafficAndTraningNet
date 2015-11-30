@@ -1,6 +1,6 @@
-Preamble: Monongalia County ARES Traffic and Training Net
+**Monongalia County ARES Traffic and Training Net**
 
-Monday at 9 pm local time (ver8.2 - 8/20/2013)
+Monday at 9 pm local time (ver8.3 - 11/30/2015)
 
 Calling the Monongalia County ARES Traffic and Training Net.
 
